@@ -80,3 +80,13 @@ Inputs pass through the preprocessing pipeline (encoding + scaling).
 Random Forest model predicts calories burned.
 
 Dashboard displays insights (MET, intensity, BMI, calories/min, etc.).
+
+# 👥 Developed by Vaishnav M - www.linkedin.com/in/vaishnav-m-
+
+# 🙏 Acknowledgments
+
+Special thanks to:
+
+Mentor: Dixon Joy - https://www.linkedin.com/in/dixson-joy-527513173/
+
+Institution: Luminar Technolab, Kochi under Rahul Mohanakumar @ https://www.linkedin.com/company/luminartechnolab/posts/?feedView=all @ https://www.linkedin.com/in/rahulluminar/
